@@ -1,4 +1,4 @@
-int motorPin1 = 2; // pin 2 on L293D IC
+ int motorPin1 = 2; // pin 2 on L293D IC
 int motorPin2 = 3; // pin 7 on L293D IC
 int motorPin3 = 4; // pin 10 on L293D IC
 int motorPin4 = 5; // pin 15 on L293D IC
